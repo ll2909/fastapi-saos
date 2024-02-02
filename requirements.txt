@@ -1,0 +1,11 @@
+vt
+pydantic
+pyjwt
+starlette
+fastapi
+uvicorn
+slowapi
+bcrypt
+python-jose
+jproperties
+pymongo
